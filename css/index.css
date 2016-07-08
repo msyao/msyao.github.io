@@ -1,0 +1,31 @@
+.devicon-bootstrap-plain,
+.devicon-ruby-plain,
+.devicon-jquery-plain-wordmark,
+.devicon-html5-plain,
+.devicon-css3-plain,
+.devicon-javascript-plain,
+.devicon-github-plain,
+.devicon-nodejs-plain,
+.devicon-mongodb-plain-wordmark,
+.devicon-sass-original,
+.devicon-heroku-plain-wordmark,
+.devicon-amazonwebservices-plain-wordmark,
+.devicon-rails-plain-wordmark {
+  font-size: 6rem
+}
+
+.web-icons {
+  text-align: center;
+}
+
+
+.img-icon {
+  margin-top:-2em;
+}
+.mailto-button {
+  margin-top: -2em;
+}
+
+.project-link:hover{
+    text-decoration: none;
+}
